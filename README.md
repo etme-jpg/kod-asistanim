@@ -3,3 +3,4 @@ Proje-yazarı#Emin
 ##Projenin-Amaci:Kullanicilara-günlük-olarak-kullanıcağı-bir-asistan-yapmak.
 ##Projenin-hedefi-binlerce-kişiye-ulaşması.
 ##Kaynakca-wikipedia-yapayzeka.
+##Projenin-kapsamı-hayatta-insanlara-günlük-olarak-yardım-eden-asistan.
